@@ -1,0 +1,19 @@
+{
+  "name": "publishnpm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shine-preet-kaur/PublishNPM.git"
+  },
+  "author": "shine-preet-kaur <skaur1@bechtel.com> (https://skaur1.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shine-preet-kaur/PublishNPM/issues"
+  },
+  "homepage": "https://github.com/shine-preet-kaur/PublishNPM#readme"
+}
