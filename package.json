@@ -1,6 +1,6 @@
 {
   "name": "publishnpm",
-  "version": "0.1.0",
+  "version": "0.1.0",             ///if any change occurs.. if its small..0.1.1,, if its big, 0.2.0
   "description": "",
   "main": "index.js",
   "scripts": {
